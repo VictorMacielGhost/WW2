@@ -1,0 +1,143 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:42:54] filterscripts = ""  (string)
+[14:42:54] 
+[14:42:54] Server Plugins
+[14:42:54] --------------
+[14:42:54]  Loading plugin: sscanf
+[14:42:55] 
+
+[14:42:55]  ===============================
+
+[14:42:55]       sscanf plugin loaded.     
+
+[14:42:55]    (c) 2009 Alex "Y_Less" Cole
+
+[14:42:55]    0.3d-R2 500 Players "dnee"
+
+[14:42:55]  ===============================
+
+[14:42:55]   Loaded.
+[14:42:55]  Loaded 1 plugins.
+
+[14:42:55] 
+[14:42:55] Filterscripts
+[14:42:55] ---------------
+[14:42:55]   Loaded 0 filterscripts.
+
+[14:42:55] 
+----------------------------------
+[14:42:55]   Gamemode Feita Por Victor Ghost
+
+[14:42:55] ----------------------------------
+
+[14:42:55] Number of vehicle models: 7
+[14:43:08] [connection] 127.0.0.1:56457 requests connection cookie.
+[14:43:08] [connection] incoming connection: 127.0.0.1:56457 id: 0
+[14:43:18] [connection] incoming connection: 127.0.0.1:54350 id: 0
+[14:43:18] [join] Mirella_Samp has joined the server (0:127.0.0.1)
+[14:43:20] [part] Mirella_Samp has left the server (0:2)
+Console input: gmx
+[14:43:43] 
+----------------------------------
+[14:43:43]   Gamemode Feita Por Victor Ghost
+
+[14:43:43] ----------------------------------
+
+[14:43:43] Number of vehicle models: 7
+[14:43:49] [connection] incoming connection: 127.0.0.1:65336 id: 0
+[14:43:49] [Conexão] ip 127.0.0.1 [Porta: 65336] está tentando se conectar ao servidor.
+[14:43:50] [join] Mirella_Samp has joined the server (0:127.0.0.1)
+[14:43:51] [Sistema]: Mirella_Samp Tentou Se Conectar no Servidor com IP Já Registrado (IP Registrado em outra conta)
+[14:43:51] (null)
+[14:43:51] Mirella_Samp Saiu do servidor (Kickado/Banido)
+[14:43:51] [part] Mirella_Samp has left the server (0:2)
+Console input: gmx~
+Console input: gmx
+[14:44:29] 
+----------------------------------
+[14:44:29]   Gamemode Feita Por Victor Ghost
+
+[14:44:29] ----------------------------------
+
+[14:44:29] Number of vehicle models: 7
+[14:44:44] [connection] incoming connection: 127.0.0.1:55460 id: 0
+[14:44:44] [join] Mirella_Samp has joined the server (0:127.0.0.1)
+[14:44:45] (null)
+[14:44:45] [part] Mirella_Samp has left the server (0:2)
+Console input: gmx
+[14:45:33] [connection] incoming connection: 127.0.0.1:60879 id: 0
+[14:45:33] [join] Mirella_Samp has joined the server (0:127.0.0.1)
+[14:45:35] 
+----------------------------------
+[14:45:35]   Gamemode Feita Por Victor Ghost
+
+[14:45:35] ----------------------------------
+
+[14:45:35] Number of vehicle models: 7
+[14:45:35] (null)
+[14:45:35] [part] Mirella_Samp has left the server (0:2)
+Console input: gmx
+[14:50:44] [connection] 127.0.0.1:57073 requests connection cookie.
+[14:50:45] 
+----------------------------------
+[14:50:45]   Gamemode Feita Por Victor Ghost
+
+[14:50:45] ----------------------------------
+
+[14:50:45] Number of vehicle models: 7
+[14:50:45] [connection] incoming connection: 127.0.0.1:57073 id: 0
+[14:50:45] [Conexão] ip 127.0.0.1 [Porta: 57073] está tentando se conectar ao servidor.
+[14:50:45] [join] Mirella_Samp has joined the server (0:127.0.0.1)
+[14:50:47] [Sistema]: Mirella_Samp Tentou Se Conectar no Servidor com IP Já Registrado (IP Registrado em outra conta)
+[14:50:47] Mirella_Samp Saiu do servidor (Kickado/Banido)
+[14:50:47] [part] Mirella_Samp has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:20:23] filterscripts = ""  (string)
+[20:20:23] 
+[20:20:23] Server Plugins
+[20:20:23] --------------
+[20:20:23]  Loading plugin: sscanf
+[20:20:23] 
+
+[20:20:23]  ===============================
+
+[20:20:23]       sscanf plugin loaded.     
+
+[20:20:23]    (c) 2009 Alex "Y_Less" Cole
+
+[20:20:23]    0.3d-R2 500 Players "dnee"
+
+[20:20:23]  ===============================
+
+[20:20:23]   Loaded.
+[20:20:23]  Loaded 1 plugins.
+
+[20:20:23] 
+[20:20:23] Filterscripts
+[20:20:23] ---------------
+[20:20:23]   Loaded 0 filterscripts.
+
+[20:20:23] 
+----------------------------------
+[20:20:23]   Servidor Baseado Na Segunda Guerra Mundial
+By Victor Ghost
+
+[20:20:23] ----------------------------------
+
+[20:20:23] Number of vehicle models: 7
